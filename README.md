@@ -14,7 +14,7 @@
 
 ### 🧭 Sobre mí
 
-Soy un ingeniero con formación en electrónica y telecomunicaciones, actualmente enfocado en ciencia de datos e ingeniería de datos. Me interesa convertir datos crudos en modelos y pipelines que sirvan para tomar decisiones — desde forecasting de series de tiempo hasta arquitecturas de datos más robustas.
+Soy un ingeniero con formación en electrónica y telecomunicaciones y una Maestría en Analítica de datos, actualmente enfocado en ciencia de datos e ingeniería de datos. Me interesa convertir datos crudos en modelos y pipelines que sirvan para tomar decisiones — desde forecasting de series de tiempo hasta arquitecturas de datos más robustas.
 
 - 🔭 Trabajando actualmente en proyectos de forecasting y análisis de series de tiempo.
 - 🌱 Aprendiendo más sobre ingeniería de datos (pipelines, ETL, bases de datos).
@@ -35,15 +35,8 @@ Soy un ingeniero con formación en electrónica y telecomunicaciones, actualment
 ### 📌 Proyectos destacados
 
 - **[Consumo-eléctrico---Forecast](https://github.com/IAMWILL-CODE/Consumo-el-ctrico---Forecast)** — Predicción de consumo eléctrico con técnicas de series de tiempo en Python.
-- 
-> Más proyectos próximamente — esta sección se actualiza a medida que suba nuevos repos.
 
 ### 📊 Estadísticas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IAMWILL-CODE&show_icons=true&theme=default&hide_border=true&count_private=false" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAMWILL-CODE&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165">
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IAMWILL-CODE&hide_border=true&theme=default" alt="GitHub streak">
